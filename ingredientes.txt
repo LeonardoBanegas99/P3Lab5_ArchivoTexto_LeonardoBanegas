@@ -1,0 +1,5 @@
+arroz;2;2;2;Fruta
+pollo;3;3;3;Otro
+leche;4;4;4;Lacteo
+galleta;2;2;2;Otro
+
